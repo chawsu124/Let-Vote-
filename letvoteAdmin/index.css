@@ -1,0 +1,41 @@
+body{
+    background-image: url('./images/site/logotitle.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* ./images/site/background.jpg */
+
+#components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+
+#login{
+  margin-top:180px;
+}
+
+/* #intro{
+  background-color: crimson;
+  color: white;
+  
+}
+
+#nextbtn{
+  background-color: green;
+  color: white;
+}
+
+#cancelbtn{
+  background-color: red;
+  color: white;
+}
+
+button{
+  border-radius: 5px;
+} */

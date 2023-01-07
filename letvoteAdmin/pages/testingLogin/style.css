@@ -1,0 +1,17 @@
+#login_from{
+    background-color: cyan;
+
+}
+.img {
+    background-color: cyan;
+
+}
+h1{
+    font-weight: bold;
+}
+
+#lgo_btn{
+    border: 2px solid black;
+    color: black;
+    background-color: #7fff00;
+}
